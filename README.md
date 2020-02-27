@@ -1,4 +1,4 @@
-# Distância
+# Idade em Dias
 [[URI Online Judge | 1020]](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)
 
 Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
