@@ -38,5 +38,3 @@ Outros exemplos:
 1 mes(es)
 0 dia(s)
 ```
-
-Adicionar mais coisas aqui!
